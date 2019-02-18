@@ -1,0 +1,1174 @@
+ _                        _____ _     _  __ _   
+| |                      /  ___| |   (_)/ _| |  
+| |     __ _ _ __   ___  \ `--.| |__  _| |_| |_ 
+| |    / _` | `_ \ / _ \  `--. \ `_ \| |  _| __|
+| |___| (_| | | | |  __/ /\__/ / | | | | | | |_ 
+\_____/\__,_|_| |_|\___| \____/|_| |_|_|_|  \__|
+  _____ _                 _       _             
+ /  ___(_)               | |     | |            
+ \ `--. _ _ __ ___  _   _| | __ _| |_ ___  _ __ 
+  `--. \ | `_ ` _ \| | | | |/ _` | __/ _ \| `__|
+ /\__/ / | | | | | | |_| | | (_| | || (_) | |   
+ \____/|_|_| |_| |_|\__,_|_|\__,_|\__\___/|_|   
+
+L1-V1 started on lane 1
+L1-V1 shifting standardly for 1858 miliseconds
+L1-V2 started on lane 1
+L1-V3 started on lane 1
+L1-V4 started on lane 1
+L1-V5 started on lane 1
+L1-V6 started on lane 1
+L1-V7 started on lane 1
+L1-V8 started on lane 1
+L1-V9 started on lane 1
+L1-V10 started on lane 1
+L1-V11 started on lane 1
+L1-V12 started on lane 1
+L1-V13 started on lane 1
+L1-V14 started on lane 1
+L1-V15 started on lane 1
+L1-V16 started on lane 1
+L1-V17 started on lane 1
+L1-V18 started on lane 1
+L1-V19 started on lane 1
+L1-V20 started on lane 1
+L1-V21 started on lane 1
+L1-V22 started on lane 1
+L1-V23 started on lane 1
+L1-V24 started on lane 1
+L1-V25 started on lane 1
+L1-V26 started on lane 1
+L1-V27 started on lane 1
+L1-V28 started on lane 1
+L1-V29 started on lane 1
+L1-V30 started on lane 1
+L1-V31 started on lane 1
+L2-V1 started on lane 2
+L2-V2 started on lane 2
+L2-V3 started on lane 2
+L2-V1 shifting standardly for 1343 miliseconds
+L2-V4 started on lane 2
+L2-V5 started on lane 2
+L2-V6 started on lane 2
+L2-V7 started on lane 2
+L2-V8 started on lane 2
+L2-V9 started on lane 2
+L2-V10 started on lane 2
+L2-V11 started on lane 2
+L2-V12 started on lane 2
+L2-V13 started on lane 2
+L2-V14 started on lane 2
+L2-V15 started on lane 2
+L2-V16 started on lane 2
+L2-V17 started on lane 2
+L2-V18 started on lane 2
+L2-V19 started on lane 2
+L2-V20 started on lane 2
+L2-V21 started on lane 2
+L2-V22 started on lane 2
+L2-V23 started on lane 2
+L2-V24 started on lane 2
+L2-V25 started on lane 2
+L2-V26 started on lane 2
+L2-V27 started on lane 2
+L2-V28 started on lane 2
+L2-V29 started on lane 2
+L2-V30 started on lane 2
+L3-V1 started on lane 3
+L3-V2 started on lane 3
+L3-V2 shifting standardly for 2979 miliseconds
+L3-V3 started on lane 3
+L3-V4 started on lane 3
+L3-V5 started on lane 3
+L3-V6 started on lane 3
+L3-V7 started on lane 3
+L3-V8 started on lane 3
+L3-V9 started on lane 3
+L3-V10 started on lane 3
+L3-V11 started on lane 3
+L3-V12 started on lane 3
+L3-V13 started on lane 3
+L3-V14 started on lane 3
+L3-V15 started on lane 3
+L3-V16 started on lane 3
+L3-V17 started on lane 3
+L3-V18 started on lane 3
+L3-V19 started on lane 3
+L3-V20 started on lane 3
+L3-V21 started on lane 3
+L3-V22 started on lane 3
+L3-V23 started on lane 3
+L3-V24 started on lane 3
+L3-V25 started on lane 3
+L3-V26 started on lane 3
+L3-V27 started on lane 3
+--- Time: 1 seconds ---
+L2-V1 is now on P22
+L2-V1 shifting standardly for 2979 miliseconds
+L3-V27 shifting into neighbor lane like fool for 6958 miliseconds
+L1-V14 shifting standardly for 1858 miliseconds
+L1-V1 is now on P12
+L1-V1 shifting standardly for 1343 miliseconds
+--- Time: 2 seconds ---
+--- Time: 3 seconds ---
+L1-V1 is now on P13
+L1-V1 shifting standardly for 2979 miliseconds
+L3-V2 is now on P32
+L3-V16 shifting standardly for 2979 miliseconds
+L1-V14 is now on P12
+L2-V10 shifting into neighbor lane like fool for 3685 miliseconds
+L1-V14 shifting standardly for 1343 miliseconds
+--- Time: 4 seconds ---
+L2-V1 is now on P23
+L2-V1 shifting standardly for 1701 miliseconds
+L3-V2 shifting into neighbor lane like fool for 4402 miliseconds
+L1-V14 is now on P13
+--- Time: 5 seconds ---
+L2-V1 is now on P24
+L2-V1 shifting standardly for 3068 miliseconds
+--- Time: 6 seconds ---
+L1-V1 is now on P14
+L1-V14 shifting standardly for 2979 miliseconds
+L1-V1 shifting standardly for 1701 miliseconds
+L3-V16 is now on P32
+L3-V22 shifting standardly for 2979 miliseconds
+L3-V16 shifting standardly for 1701 miliseconds
+--- Time: 7 seconds ---
+L1-V27 shifting standardly for 1858 miliseconds
+L1-V1 is now on P15
+L1-V1 shifting standardly for 2068 miliseconds
+L3-V16 is now on P33
+L3-V16 shifting standardly for 2068 miliseconds
+--- Time: 8 seconds ---
+L3-V27 is now on P22
+L2-V27 shifting standardly for 1343 miliseconds
+L3-V2 is now on P23
+L3-V2 shifting standardly for 2068 miliseconds
+L3-V27 shifting standardly for 1701 miliseconds
+--- Time: 9 seconds ---
+L1-V14 is now on P14
+L1-V14 shifting standardly for 1701 miliseconds
+L1-V27 is now on P12
+L2-V30 shifting into neighbor lane like fool for 3685 miliseconds
+L3-V22 is now on P32
+L3-V14 shifting standardly for 2979 miliseconds
+L1-V27 shifting standardly for 1343 miliseconds
+L2-V27 is now on P22
+L2-V24 shifting standardly for 1343 miliseconds
+L2-V1 is now on P25
+L1-V1 is now on P16
+L2-V1 shifting standardly for 2435 miliseconds
+L1-V1 shifting standardly for 955 miliseconds
+L3-V16 is now on P34
+--- Time: 10 seconds ---
+L3-V16 shifting standardly for 2955 miliseconds
+L1-V27 is now on P13
+L1-V27 shifting standardly for 2979 miliseconds
+L3-V27 is now on P23
+L2-V27 shifting standardly for 2979 miliseconds
+L1-V14 is now on P15
+L1-V14 shifting standardly for 2068 miliseconds
+L1-V1 is now on P17
+L1-V1 shifting standardly for 2435 miliseconds
+L3-V2 is now on P24
+L2-V24 is now on P22
+L2-V11 shifting standardly for 1343 miliseconds
+--- Time: 11 seconds ---
+L3-V27 shifting standardly for 2068 miliseconds
+--- Time: 12 seconds ---
+L3-V14 is now on P32
+L3-V3 shifting standardly for 2979 miliseconds
+L3-V14 shifting standardly for 1701 miliseconds
+L2-V11 is now on P22
+L2-V22 shifting standardly for 1343 miliseconds
+L2-V1 is now on P26
+L2-V1 shifting standardly for 1819 miliseconds
+L1-V5 shifting standardly for 1858 miliseconds
+L1-V14 is now on P16
+--- Time: 13 seconds ---
+L3-V27 is now on P24
+L1-V1 is now on P18
+L1-V1 shifting standardly for 2819 miliseconds
+L1-V27 is now on P14
+L2-V22 is now on P22
+L2-V15 shifting standardly for 1343 miliseconds
+L2-V27 is now on P23
+L2-V22 shifting standardly for 2979 miliseconds
+L2-V27 shifting standardly for 1701 miliseconds
+L1-V27 shifting standardly for 1701 miliseconds
+L3-V14 is now on P33
+L3-V14 shifting standardly for 2068 miliseconds
+--- Time: 14 seconds ---
+L2-V1 is now on P27
+L2-V1 shifting standardly for 1830 miliseconds
+L1-V14 shifting into neighbor lane like fool for 2910 miliseconds
+L1-V5 is now on P12
+L1-V11 shifting standardly for 1858 miliseconds
+--- Time: 15 seconds ---
+L2-V15 is now on P22
+L2-V4 shifting standardly for 1343 miliseconds
+L3-V3 is now on P32
+L3-V20 shifting standardly for 2979 miliseconds
+L2-V27 is now on P24
+L1-V27 is now on P15
+L1-V27 shifting standardly for 2068 miliseconds
+--- Time: 16 seconds ---
+L3-V14 is now on P34
+L2-V1 is now on P28
+L1-V1 is now on P19
+L1-V1 shifting standardly for 1830 miliseconds
+L2-V4 is now on P22
+L2-V7 shifting standardly for 1343 miliseconds
+L1-V11 is now on P12
+L1-V11 shifting standardly for 1343 miliseconds
+L1-V10 shifting standardly for 1858 miliseconds
+L2-V1 shifting standardly for 3985 miliseconds
+L2-V22 is now on P23
+L2-V22 shifting standardly for 1701 miliseconds
+L2-V4 shifting standardly for 2979 miliseconds
+L3-V16 is now on P25
+L3-V2 shifting standardly for 1955 miliseconds
+L3-V16 shifting standardly for 1819 miliseconds
+--- Time: 17 seconds ---
+L1-V14 is now on P27
+L1-V14 shifting standardly for 2435 miliseconds
+L1-V27 is now on P16
+L1-V27 shifting standardly for 955 miliseconds
+L2-V7 is now on P22
+L2-V17 shifting standardly for 1343 miliseconds
+L1-V11 is now on P13
+L1-V11 shifting standardly for 2979 miliseconds
+--- Time: 18 seconds ---
+L1-V1 is now on finish
+L1-V1 finished simulation!
+L3-V20 is now on P32
+L3-V20 shifting standardly for 1701 miliseconds
+L3-V19 shifting standardly for 2979 miliseconds
+L2-V22 is now on P24
+L1-V10 is now on P12
+L1-V10 shifting standardly for 1343 miliseconds
+L2-V5 shifting into neighbor lane like fool for 3685 miliseconds
+L1-V27 is now on P17
+L3-V16 is now on P26
+L3-V16 shifting standardly for 1830 miliseconds
+--- Time: 19 seconds ---
+L2-V17 is now on P22
+L2-V14 shifting standardly for 1343 miliseconds
+L2-V4 is now on P23
+L2-V15 shifting standardly for 2979 miliseconds
+L2-V4 shifting standardly for 1701 miliseconds
+L1-V10 is now on P13
+L1-V14 is now on P28
+L3-V20 is now on P33
+L3-V20 shifting standardly for 2068 miliseconds
+L1-V27 shifting into neighbor lane like fool for 5870 miliseconds
+--- Time: 20 seconds ---
+L2-V14 is now on P22
+L2-V13 shifting standardly for 1343 miliseconds
+L3-V16 is now on P27
+L1-V11 is now on P14
+--- Time: 21 seconds ---
+L1-V10 shifting standardly for 2979 miliseconds
+L3-V19 is now on P32
+L3-V10 shifting standardly for 2979 miliseconds
+L3-V19 shifting standardly for 1701 miliseconds
+L2-V4 is now on P24
+L2-V13 is now on P22
+L2-V3 shifting standardly for 1343 miliseconds
+L3-V20 is now on P34
+--- Time: 22 seconds ---
+L1-V16 shifting standardly for 1858 miliseconds
+L2-V15 is now on P23
+L2-V7 shifting standardly for 2979 miliseconds
+L3-V2 is now on P25
+L3-V2 shifting standardly for 1819 miliseconds
+L3-V20 shifting standardly for 2955 miliseconds
+L2-V15 shifting standardly for 1701 miliseconds
+L1-V11 shifting into neighbor lane like fool for 4402 miliseconds
+L3-V19 is now on P33
+--- Time: 23 seconds ---
+L2-V3 is now on P22
+L2-V25 shifting standardly for 1343 miliseconds
+L2-V1 is now on P19
+L2-V1 shifting standardly for 1639 miliseconds
+L1-V14 shifting standardly for 3819 miliseconds
+--- Time: 24 seconds ---
+L1-V10 is now on P14
+L1-V10 shifting standardly for 1701 miliseconds
+L1-V16 is now on P12
+L1-V24 shifting standardly for 1858 miliseconds
+L1-V16 shifting standardly for 1343 miliseconds
+L3-V10 is now on P32
+L3-V21 shifting standardly for 2979 miliseconds
+L3-V10 shifting standardly for 1701 miliseconds
+L2-V15 is now on P24
+L3-V19 shifting into neighbor lane like fool for 5135 miliseconds
+L2-V25 is now on P22
+L2-V28 shifting standardly for 1343 miliseconds
+L3-V2 is now on P26
+L3-V2 shifting standardly for 1830 miliseconds
+L2-V1 is now on finish
+L2-V1 finished simulation!
+--- Time: 25 seconds ---
+L1-V16 is now on P13
+L1-V16 shifting standardly for 2979 miliseconds
+L1-V27 is now on P28
+L2-V7 is now on P23
+L2-V3 shifting standardly for 2979 miliseconds
+L1-V10 is now on P15
+L1-V10 shifting standardly for 2068 miliseconds
+L3-V16 shifting standardly for 1985 miliseconds
+L2-V28 is now on P22
+L2-V18 shifting standardly for 1343 miliseconds
+L1-V24 is now on P12
+L1-V22 shifting standardly for 1858 miliseconds
+L1-V24 shifting standardly for 1343 miliseconds
+L3-V10 is now on P33
+L3-V10 shifting standardly for 2068 miliseconds
+--- Time: 26 seconds ---
+L3-V2 is now on P27
+--- Time: 27 seconds ---
+L3-V21 is now on P32
+L3-V5 shifting standardly for 2979 miliseconds
+L3-V21 shifting standardly for 1701 miliseconds
+L1-V11 is now on P25
+L1-V11 shifting standardly for 2068 miliseconds
+L2-V18 is now on P22
+L2-V12 shifting standardly for 1343 miliseconds
+L1-V24 is now on P13
+L3-V16 is now on P28
+L1-V22 is now on P12
+L1-V22 shifting standardly for 1343 miliseconds
+L1-V17 shifting standardly for 1858 miliseconds
+L1-V10 is now on P16
+L1-V10 shifting standardly for 955 miliseconds
+L3-V2 shifting standardly for 1985 miliseconds
+--- Time: 28 seconds ---
+L3-V10 is now on P34
+L1-V16 is now on P14
+L1-V16 shifting standardly for 1701 miliseconds
+L1-V24 shifting standardly for 2979 miliseconds
+L2-V12 is now on P22
+L2-V23 shifting standardly for 1343 miliseconds
+L2-V3 is now on P23
+L2-V12 shifting standardly for 2979 miliseconds
+L1-V10 is now on P17
+L1-V10 shifting standardly for 2435 miliseconds
+L3-V21 is now on P33
+L3-V21 shifting standardly for 2068 miliseconds
+--- Time: 29 seconds ---
+L1-V22 is now on P13
+L1-V11 is now on P26
+L1-V11 shifting standardly for 955 miliseconds
+L3-V20 is now on P25
+L3-V20 shifting standardly for 1819 miliseconds
+L2-V27 shifting standardly for 3068 miliseconds
+L3-V19 is now on P24
+L2-V7 shifting standardly for 1701 miliseconds
+L1-V17 is now on P12
+L1-V17 shifting standardly for 1343 miliseconds
+L1-V12 shifting standardly for 1858 miliseconds
+L1-V14 is now on P19
+L1-V14 shifting standardly for 1985 miliseconds
+L3-V2 is now on P28
+L2-V23 is now on P22
+L3-V2 shifting standardly for 3826 miliseconds
+L2-V16 shifting standardly for 1343 miliseconds
+--- Time: 30 seconds ---
+L3-V5 is now on P32
+L3-V8 shifting standardly for 2979 miliseconds
+L3-V5 shifting standardly for 1701 miliseconds
+L1-V16 is now on P15
+L1-V16 shifting standardly for 2068 miliseconds
+L1-V11 is now on P27
+L1-V11 shifting standardly for 2435 miliseconds
+L3-V21 is now on P34
+--- Time: 31 seconds ---
+L1-V17 is now on P13
+L1-V10 is now on P18
+L2-V16 is now on P22
+L2-V26 shifting standardly for 1343 miliseconds
+L2-V7 is now on P24
+L3-V20 is now on P26
+L3-V20 shifting standardly for 1830 miliseconds
+L1-V24 is now on P14
+L2-V3 shifting into neighbor lane like fool for 4402 miliseconds
+L1-V24 shifting standardly for 1701 miliseconds
+L1-V8 shifting standardly for 1858 miliseconds
+L1-V12 is now on P12
+L1-V12 shifting standardly for 1343 miliseconds
+L2-V12 is now on P23
+L2-V12 shifting standardly for 1701 miliseconds
+L2-V28 shifting standardly for 2979 miliseconds
+L1-V14 is now on finish
+L1-V14 finished simulation!
+L3-V5 is now on P33
+L3-V5 shifting standardly for 2068 miliseconds
+--- Time: 32 seconds ---
+L1-V16 is now on P16
+L1-V16 shifting standardly for 955 miliseconds
+L2-V27 is now on P25
+L2-V7 shifting standardly for 3068 miliseconds
+L2-V26 is now on P22
+L2-V27 shifting standardly for 955 miliseconds
+L1-V11 is now on P28
+L2-V8 shifting standardly for 1343 miliseconds
+L1-V12 is now on P13
+--- Time: 33 seconds ---
+L3-V8 is now on P32
+L3-V4 shifting standardly for 2979 miliseconds
+L3-V8 shifting standardly for 1701 miliseconds
+L3-V20 is now on P27
+L3-V20 shifting standardly for 1985 miliseconds
+L1-V24 is now on P15
+L1-V24 shifting standardly for 2068 miliseconds
+L1-V16 is now on P17
+L1-V16 shifting standardly for 2435 miliseconds
+L2-V12 is now on P24
+L1-V8 is now on P12
+L1-V26 shifting standardly for 1858 miliseconds
+L1-V8 shifting standardly for 1343 miliseconds
+L2-V27 is now on P26
+L2-V27 shifting standardly for 2435 miliseconds
+L3-V2 is now on P19
+L3-V2 shifting standardly for 1639 miliseconds
+L1-V27 shifting standardly for 3819 miliseconds
+--- Time: 34 seconds ---
+L3-V5 is now on P34
+L2-V8 is now on P22
+L2-V2 shifting standardly for 1343 miliseconds
+L2-V28 is now on P23
+L2-V25 shifting standardly for 2979 miliseconds
+L1-V8 is now on P13
+L2-V28 shifting standardly for 1701 miliseconds
+L3-V8 is now on P33
+L3-V8 shifting standardly for 2068 miliseconds
+--- Time: 35 seconds ---
+L3-V20 is now on P28
+L1-V26 is now on P12
+L1-V23 shifting standardly for 1858 miliseconds
+L1-V26 shifting standardly for 1343 miliseconds
+L1-V24 is now on P16
+L1-V24 shifting standardly for 955 miliseconds
+L3-V2 is now on finish
+L3-V2 finished simulation!
+L2-V2 is now on P22
+L2-V21 shifting standardly for 1343 miliseconds
+L1-V16 is now on P18
+L2-V7 is now on P25
+L2-V22 shifting standardly for 3068 miliseconds
+L2-V7 shifting standardly for 955 miliseconds
+--- Time: 36 seconds ---
+L2-V27 is now on P27
+L3-V4 is now on P32
+L3-V23 shifting standardly for 2979 miliseconds
+L2-V27 shifting standardly for 1819 miliseconds
+L3-V4 shifting standardly for 1701 miliseconds
+L2-V3 is now on P14
+L1-V17 shifting standardly for 2979 miliseconds
+L2-V3 shifting standardly for 2068 miliseconds
+L1-V24 is now on P17
+L1-V24 shifting standardly for 2435 miliseconds
+L2-V28 is now on P24
+L1-V26 is now on P13
+L2-V7 is now on P26
+L2-V7 shifting standardly for 2435 miliseconds
+L2-V21 is now on P22
+L2-V29 shifting standardly for 1343 miliseconds
+L3-V8 is now on P34
+--- Time: 37 seconds ---
+L1-V23 is now on P12
+L1-V6 shifting standardly for 1858 miliseconds
+L1-V23 shifting standardly for 1343 miliseconds
+L1-V27 is now on P19
+L3-V20 shifting standardly for 3826 miliseconds
+L1-V27 shifting standardly for 1830 miliseconds
+L2-V25 is now on P23
+L2-V8 shifting standardly for 2979 miliseconds
+L2-V25 shifting standardly for 1701 miliseconds
+L3-V4 is now on P33
+L3-V4 shifting standardly for 2068 miliseconds
+--- Time: 38 seconds ---
+L2-V27 is now on P28
+L2-V29 is now on P22
+L2-V3 is now on P15
+L2-V3 shifting standardly for 955 miliseconds
+L2-V9 shifting standardly for 1343 miliseconds
+L1-V23 is now on P13
+L1-V24 is now on P18
+L2-V29 shifting into neighbor lane like fool for 6958 miliseconds
+L2-V22 is now on P25
+L2-V22 shifting standardly for 955 miliseconds
+L3-V10 shifting standardly for 2955 miliseconds
+L1-V6 is now on P12
+L1-V2 shifting standardly for 1858 miliseconds
+--- Time: 39 seconds ---
+L3-V23 is now on P32
+L3-V9 shifting standardly for 2979 miliseconds
+L3-V23 shifting standardly for 1701 miliseconds
+L2-V7 is now on P27
+L2-V7 shifting standardly for 1819 miliseconds
+L1-V17 is now on P14
+L1-V8 shifting standardly for 2979 miliseconds
+L1-V17 shifting standardly for 1701 miliseconds
+L2-V3 is now on P16
+L2-V3 shifting standardly for 2435 miliseconds
+L2-V25 is now on P24
+L1-V27 is now on finish
+L1-V27 finished simulation!
+L2-V9 is now on P22
+L2-V19 shifting standardly for 1343 miliseconds
+L2-V22 is now on P26
+--- Time: 40 seconds ---
+L3-V4 is now on P34
+L2-V8 is now on P23
+L2-V9 shifting standardly for 2979 miliseconds
+L2-V8 shifting standardly for 1701 miliseconds
+L3-V23 is now on P33
+L1-V2 is now on P12
+L1-V7 shifting standardly for 1858 miliseconds
+L3-V23 shifting standardly for 2068 miliseconds
+L1-V17 is now on P15
+L1-V17 shifting standardly for 2068 miliseconds
+L2-V7 is now on P28
+L2-V19 is now on P22
+--- Time: 41 seconds ---
+L2-V3 is now on P17
+L2-V3 shifting standardly for 1819 miliseconds
+L3-V10 is now on P25
+L2-V12 shifting standardly for 3068 miliseconds
+L2-V22 shifting into neighbor lane like fool for 5870 miliseconds
+--- Time: 42 seconds ---
+L3-V9 is now on P32
+L3-V24 shifting standardly for 2979 miliseconds
+L1-V8 is now on P14
+L1-V8 shifting standardly for 1701 miliseconds
+L1-V12 shifting standardly for 2979 miliseconds
+L3-V9 shifting standardly for 1701 miliseconds
+L2-V8 is now on P24
+L1-V7 is now on P12
+L1-V9 shifting standardly for 1858 miliseconds
+L3-V23 is now on P34
+L1-V17 is now on P16
+--- Time: 43 seconds ---
+L3-V10 shifting into neighbor lane like fool for 5870 miliseconds
+L2-V3 is now on P18
+L3-V20 is now on P19
+L3-V16 shifting standardly for 3826 miliseconds
+L2-V9 is now on P23
+L2-V9 shifting standardly for 1701 miliseconds
+L2-V21 shifting standardly for 2979 miliseconds
+L3-V20 shifting standardly for 1420 miliseconds
+L3-V9 is now on P33
+L1-V8 is now on P15
+L3-V9 shifting standardly for 2068 miliseconds
+--- Time: 44 seconds ---
+L1-V9 is now on P12
+L1-V3 shifting standardly for 1858 miliseconds
+L2-V12 is now on P25
+L2-V8 shifting standardly for 3068 miliseconds
+--- Time: 45 seconds ---
+L3-V24 is now on P32
+L1-V12 is now on P14
+L1-V26 shifting standardly for 2979 miliseconds
+L1-V12 shifting standardly for 1701 miliseconds
+L3-V25 shifting standardly for 2979 miliseconds
+L3-V20 is now on finish
+L3-V20 finished simulation!
+L2-V9 is now on P24
+L2-V29 is now on P13
+L1-V6 shifting standardly for 1343 miliseconds
+L3-V9 is now on P34
+--- Time: 46 seconds ---
+L1-V3 is now on P12
+L1-V15 shifting standardly for 1858 miliseconds
+L2-V21 is now on P23
+L2-V26 shifting standardly for 2979 miliseconds
+L1-V12 is now on P15
+L1-V12 shifting into neighbor lane like fool for 5135 miliseconds
+--- Time: 47 seconds ---
+L1-V6 is now on P13
+L1-V9 shifting standardly for 1343 miliseconds
+L2-V22 is now on P17
+L1-V17 shifting standardly for 955 miliseconds
+L2-V22 shifting standardly for 1819 miliseconds
+--- Time: 48 seconds ---
+L2-V8 is now on P25
+L2-V28 shifting standardly for 3068 miliseconds
+L1-V26 is now on P14
+L1-V6 shifting standardly for 2979 miliseconds
+L1-V26 shifting standardly for 1701 miliseconds
+L3-V25 is now on P32
+L3-V1 shifting standardly for 2979 miliseconds
+L3-V25 shifting standardly for 1701 miliseconds
+L1-V15 is now on P12
+L1-V18 shifting standardly for 1858 miliseconds
+L1-V9 is now on P13
+L1-V17 is now on P17
+L1-V2 shifting standardly for 1343 miliseconds
+--- Time: 49 seconds ---
+L3-V10 is now on P16
+L2-V12 shifting into neighbor lane like fool for 2910 miliseconds
+L3-V10 shifting standardly for 1819 miliseconds
+L2-V22 is now on P18
+L2-V26 is now on P23
+L1-V5 shifting into neighbor lane like fool for 3685 miliseconds
+L2-V26 shifting standardly for 1701 miliseconds
+L1-V26 is now on P15
+L3-V25 is now on P33
+L3-V25 shifting standardly for 2068 miliseconds
+L3-V16 is now on P19
+L2-V27 shifting standardly for 3830 miliseconds
+L3-V16 shifting standardly for 1420 miliseconds
+L1-V17 shifting standardly for 2435 miliseconds
+--- Time: 50 seconds ---
+L1-V2 is now on P13
+L1-V3 shifting standardly for 1343 miliseconds
+L1-V18 is now on P12
+L2-V6 shifting into neighbor lane like fool for 3685 miliseconds
+--- Time: 51 seconds ---
+L3-V10 is now on P17
+L1-V6 is now on P14
+L1-V22 shifting standardly for 2979 miliseconds
+L1-V6 shifting standardly for 1701 miliseconds
+L3-V1 is now on P32
+L3-V7 shifting standardly for 2979 miliseconds
+L2-V28 is now on P25
+L2-V9 shifting standardly for 3068 miliseconds
+L3-V16 is now on finish
+L3-V16 finished simulation!
+L1-V3 is now on P13
+L2-V26 is now on P24
+L1-V3 shifting into neighbor lane like fool for 6958 miliseconds
+L1-V15 shifting standardly for 1343 miliseconds
+L3-V25 is now on P34
+L1-V12 is now on P26
+L1-V12 shifting standardly for 955 miliseconds
+L2-V28 shifting standardly for 955 miliseconds
+--- Time: 52 seconds ---
+L1-V8 shifting standardly for 2068 miliseconds
+L2-V12 is now on P16
+L2-V12 shifting standardly for 2435 miliseconds
+L1-V17 is now on P18
+L3-V10 shifting standardly for 1830 miliseconds
+L1-V6 is now on P15
+L1-V15 is now on P13
+L1-V18 shifting standardly for 1343 miliseconds
+L1-V12 is now on P27
+L2-V28 is now on P26
+L2-V28 shifting standardly for 2435 miliseconds
+L2-V8 shifting standardly for 955 miliseconds
+--- Time: 53 seconds ---
+L1-V5 is now on P23
+L2-V2 shifting standardly for 2979 miliseconds
+L2-V27 is now on P19
+L2-V3 shifting standardly for 2830 miliseconds
+L2-V27 shifting standardly for 1985 miliseconds
+L2-V8 is now on P26
+L1-V29 shifting standardly for 1858 miliseconds
+--- Time: 54 seconds ---
+L1-V22 is now on P14
+L2-V29 shifting standardly for 1701 miliseconds
+L1-V22 shifting standardly for 1701 miliseconds
+L3-V7 is now on P32
+L3-V6 shifting standardly for 2979 miliseconds
+L2-V9 is now on P25
+L3-V27 shifting standardly for 1955 miliseconds
+L1-V8 is now on P16
+L2-V9 shifting into neighbor lane like fool for 2910 miliseconds
+L1-V18 is now on P13
+L1-V7 shifting standardly for 1343 miliseconds
+L3-V10 is now on P18
+L1-V12 shifting into neighbor lane like fool for 5870 miliseconds
+L2-V12 is now on P17
+L1-V8 shifting standardly for 955 miliseconds
+--- Time: 55 seconds ---
+L2-V28 is now on P27
+L2-V28 shifting standardly for 1819 miliseconds
+L1-V7 is now on P13
+L1-V8 is now on P17
+L2-V8 shifting into neighbor lane like fool for 5870 miliseconds
+L2-V29 is now on P14
+L2-V21 shifting into neighbor lane like fool for 4402 miliseconds
+L2-V27 is now on finish
+L2-V27 finished simulation!
+L1-V22 is now on P15
+L2-V29 shifting standardly for 2068 miliseconds
+L1-V29 is now on P12
+L1-V13 shifting standardly for 1858 miliseconds
+--- Time: 56 seconds ---
+L3-V27 is now on P25
+L3-V23 shifting standardly for 2955 miliseconds
+L2-V14 shifting standardly for 2979 miliseconds
+L2-V2 is now on P23
+L2-V3 is now on P19
+L1-V11 shifting standardly for 3819 miliseconds
+L2-V3 shifting standardly for 1985 miliseconds
+--- Time: 57 seconds ---
+L3-V6 is now on P32
+L3-V6 shifting standardly for 1701 miliseconds
+L3-V26 shifting standardly for 2979 miliseconds
+L2-V9 is now on P16
+L1-V22 shifting standardly for 2068 miliseconds
+L2-V28 is now on P28
+L1-V13 is now on P12
+L1-V19 shifting standardly for 1858 miliseconds
+L1-V13 shifting standardly for 1343 miliseconds
+L2-V29 is now on P15
+--- Time: 58 seconds ---
+L1-V3 is now on P24
+L1-V5 shifting standardly for 2979 miliseconds
+L2-V3 is now on finish
+L2-V3 finished simulation!
+L3-V6 is now on P33
+L3-V6 shifting standardly for 2068 miliseconds
+--- Time: 59 seconds ---
+L1-V13 is now on P13
+L1-V22 is now on P16
+L1-V26 shifting standardly for 2068 miliseconds
+L2-V14 is now on P23
+L2-V16 shifting standardly for 2979 miliseconds
+L1-V19 is now on P12
+L1-V21 shifting standardly for 1858 miliseconds
+L1-V19 shifting standardly for 1343 miliseconds
+--- Time: 60 seconds ---
+L3-V26 is now on P32
+L3-V15 shifting standardly for 2979 miliseconds
+L3-V26 shifting standardly for 1701 miliseconds
+L2-V21 is now on P14
+L2-V21 shifting into neighbor lane like fool for 5135 miliseconds
+L1-V7 shifting standardly for 2979 miliseconds
+L1-V12 is now on P18
+L2-V12 shifting standardly for 1819 miliseconds
+L3-V6 is now on P34
+L1-V19 is now on P13
+--- Time: 61 seconds ---
+L1-V26 is now on P16
+L3-V27 shifting into neighbor lane like fool for 5870 miliseconds
+L1-V21 is now on P12
+L1-V21 shifting standardly for 1343 miliseconds
+L1-V30 shifting standardly for 1858 miliseconds
+L1-V5 is now on P24
+L1-V19 shifting into neighbor lane like fool for 6958 miliseconds
+L2-V8 is now on P17
+L2-V9 shifting standardly for 2435 miliseconds
+L3-V26 is now on P33
+L3-V26 shifting standardly for 2068 miliseconds
+--- Time: 62 seconds ---
+L2-V12 is now on P18
+L2-V8 shifting standardly for 1819 miliseconds
+L2-V19 shifting standardly for 2979 miliseconds
+L2-V16 is now on P23
+L1-V21 is now on P13
+--- Time: 63 seconds ---
+L3-V15 is now on P32
+L3-V15 shifting standardly for 1701 miliseconds
+L3-V17 shifting standardly for 2979 miliseconds
+L3-V23 is now on P25
+L3-V23 shifting standardly for 1819 miliseconds
+L2-V12 shifting standardly for 2830 miliseconds
+L1-V11 is now on P19
+L3-V6 shifting standardly for 2955 miliseconds
+L1-V11 shifting standardly for 1985 miliseconds
+L1-V7 is now on P14
+L1-V9 shifting standardly for 2979 miliseconds
+L1-V7 shifting standardly for 1701 miliseconds
+L1-V30 is now on P12
+L1-V31 shifting standardly for 1858 miliseconds
+L1-V30 shifting standardly for 1343 miliseconds
+L3-V26 is now on P34
+--- Time: 64 seconds ---
+L2-V9 is now on P17
+L1-V22 shifting standardly for 955 miliseconds
+L2-V9 shifting standardly for 1819 miliseconds
+L2-V8 is now on P18
+L1-V30 is now on P13
+L3-V15 is now on P33
+L3-V15 shifting standardly for 2068 miliseconds
+L3-V23 is now on P26
+L3-V23 shifting standardly for 1830 miliseconds
+L1-V7 is now on P15
+--- Time: 65 seconds ---
+L1-V11 is now on finish
+L1-V11 finished simulation!
+L1-V22 is now on P17
+L1-V31 is now on P12
+L1-V31 shifting standardly for 1343 miliseconds
+L1-V20 shifting standardly for 1858 miliseconds
+L1-V26 shifting standardly for 955 miliseconds
+L2-V21 is now on P25
+L2-V19 is now on P23
+L1-V29 shifting into neighbor lane like fool for 3685 miliseconds
+L3-V17 is now on P32
+--- Time: 66 seconds ---
+L3-V17 shifting standardly for 1701 miliseconds
+L3-V12 shifting standardly for 2979 miliseconds
+L2-V9 is now on P18
+L1-V22 shifting standardly for 2435 miliseconds
+L1-V26 is now on P17
+L1-V23 shifting standardly for 2979 miliseconds
+L1-V9 is now on P14
+L1-V9 shifting standardly for 1701 miliseconds
+L1-V31 is now on P13
+L3-V23 is now on P27
+L3-V23 shifting standardly for 1985 miliseconds
+L3-V15 is now on P34
+--- Time: 67 seconds ---
+L1-V20 is now on P12
+L2-V20 shifting into neighbor lane like fool for 3685 miliseconds
+L1-V20 shifting standardly for 1343 miliseconds
+L3-V27 is now on P16
+L3-V27 shifting standardly for 1819 miliseconds
+L1-V7 shifting standardly for 2068 miliseconds
+L3-V17 is now on P33
+L3-V17 shifting standardly for 2068 miliseconds
+--- Time: 68 seconds ---
+L1-V9 is now on P15
+L1-V19 is now on P24
+L1-V20 is now on P13
+L2-V16 shifting standardly for 1701 miliseconds
+L1-V22 is now on P18
+L1-V8 shifting standardly for 2435 miliseconds
+L3-V23 is now on P28
+L2-V12 is now on P19
+L3-V23 shifting standardly for 3826 miliseconds
+L2-V12 shifting standardly for 1826 miliseconds
+L3-V27 is now on P17
+L3-V12 is now on P32
+L3-V18 shifting standardly for 2979 miliseconds
+--- Time: 69 seconds ---
+L3-V12 shifting standardly for 1701 miliseconds
+L1-V29 is now on P23
+L2-V11 shifting standardly for 2979 miliseconds
+L1-V23 is now on P14
+L1-V2 shifting standardly for 2979 miliseconds
+L1-V23 shifting standardly for 1701 miliseconds
+L1-V7 is now on P16
+L1-V9 shifting standardly for 2068 miliseconds
+L1-V7 shifting standardly for 955 miliseconds
+L3-V17 is now on P34
+L3-V6 is now on P25
+L3-V17 shifting standardly for 2955 miliseconds
+L3-V6 shifting standardly for 1819 miliseconds
+--- Time: 70 seconds ---
+L2-V16 is now on P24
+L1-V29 shifting standardly for 2979 miliseconds
+L1-V7 is now on P17
+L2-V12 is now on finish
+L2-V12 finished simulation!
+L1-V4 shifting standardly for 1858 miliseconds
+L3-V12 is now on P33
+L3-V12 shifting standardly for 2068 miliseconds
+L1-V23 is now on P15
+--- Time: 71 seconds ---
+L1-V8 is now on P18
+L1-V7 shifting standardly for 2435 miliseconds
+L1-V9 is now on P16
+L1-V23 shifting standardly for 2068 miliseconds
+L1-V9 shifting standardly for 955 miliseconds
+L3-V6 is now on P26
+L3-V6 shifting standardly for 1830 miliseconds
+L3-V18 is now on P32
+L3-V18 shifting standardly for 1701 miliseconds
+L3-V11 shifting standardly for 2979 miliseconds
+--- Time: 72 seconds ---
+L2-V11 is now on P23
+L2-V13 shifting standardly for 2979 miliseconds
+L1-V31 shifting standardly for 2979 miliseconds
+L1-V2 is now on P14
+L1-V2 shifting standardly for 1701 miliseconds
+L1-V9 is now on P17
+L1-V4 is now on P12
+L1-V4 shifting standardly for 1343 miliseconds
+L1-V25 shifting standardly for 1858 miliseconds
+L3-V12 is now on P34
+L3-V17 is now on P25
+L3-V19 shifting standardly for 1955 miliseconds
+L3-V17 shifting standardly for 2435 miliseconds
+--- Time: 73 seconds ---
+L1-V29 is now on P24
+L2-V14 shifting standardly for 1701 miliseconds
+L1-V23 is now on P16
+L2-V29 shifting standardly for 955 miliseconds
+L1-V23 shifting standardly for 955 miliseconds
+L1-V7 is now on P18
+L3-V6 is now on P27
+L3-V6 shifting standardly for 1985 miliseconds
+L1-V9 shifting standardly for 2435 miliseconds
+L3-V18 is now on P33
+L3-V18 shifting standardly for 2068 miliseconds
+L1-V2 is now on P15
+L1-V4 is now on P13
+--- Time: 74 seconds ---
+L2-V29 is now on P16
+L2-V21 shifting into neighbor lane like fool for 2910 miliseconds
+L1-V23 is now on P17
+L2-V29 shifting standardly for 2435 miliseconds
+L1-V25 is now on P12
+L1-V25 shifting standardly for 1343 miliseconds
+L1-V28 shifting standardly for 1858 miliseconds
+L2-V14 is now on P24
+L2-V2 shifting standardly for 1701 miliseconds
+L3-V23 is now on P19
+L1-V8 shifting standardly for 2819 miliseconds
+L3-V23 shifting standardly for 1420 miliseconds
+L3-V11 is now on P32
+L3-V11 shifting standardly for 1701 miliseconds
+--- Time: 75 seconds ---
+L3-V13 shifting standardly for 2979 miliseconds
+L2-V13 is now on P23
+L3-V7 shifting into neighbor lane like fool for 4402 miliseconds
+L1-V31 is now on P14
+L1-V4 shifting standardly for 2979 miliseconds
+L1-V31 shifting standardly for 1701 miliseconds
+L3-V17 is now on P26
+L3-V17 shifting standardly for 1819 miliseconds
+L3-V6 is now on P28
+L3-V18 is now on P34
+L1-V25 is now on P13
+--- Time: 76 seconds ---
+L1-V9 is now on P18
+L1-V26 shifting standardly for 2435 miliseconds
+L1-V28 is now on P12
+L1-V28 shifting standardly for 1343 miliseconds
+L3-V23 is now on finish
+L3-V23 finished simulation!
+L2-V2 is now on P24
+L2-V11 shifting standardly for 1701 miliseconds
+L3-V11 is now on P33
+L2-V29 is now on P17
+L1-V31 is now on P15
+--- Time: 77 seconds ---
+L3-V17 is now on P27
+L3-V17 shifting standardly for 1830 miliseconds
+L2-V21 is now on P16
+L1-V31 shifting standardly for 2068 miliseconds
+L2-V21 shifting standardly for 2435 miliseconds
+L1-V28 is now on P13
+L1-V8 is now on P19
+L1-V8 shifting standardly for 1830 miliseconds
+L2-V28 shifting standardly for 3830 miliseconds
+L3-V13 is now on P32
+L3-V13 shifting standardly for 1701 miliseconds
+--- Time: 78 seconds ---
+L1-V4 is now on P14
+L1-V21 shifting standardly for 2979 miliseconds
+L1-V4 shifting standardly for 1701 miliseconds
+L2-V11 is now on P24
+L3-V11 shifting into neighbor lane like fool for 5135 miliseconds
+L1-V26 is now on P18
+L1-V23 shifting standardly for 2435 miliseconds
+L3-V19 is now on P25
+L3-V21 shifting standardly for 2955 miliseconds
+L3-V19 shifting standardly for 1819 miliseconds
+L3-V17 is now on P28
+--- Time: 79 seconds ---
+L1-V31 is now on P16
+L1-V2 shifting standardly for 2068 miliseconds
+L3-V24 shifting into neighbor lane like fool for 4402 miliseconds
+L3-V7 is now on P23
+L1-V8 is now on finish
+L1-V8 finished simulation!
+L3-V13 is now on P33
+L3-V13 shifting standardly for 2068 miliseconds
+L2-V21 is now on P17
+L1-V31 shifting standardly for 955 miliseconds
+L1-V4 is now on P15
+--- Time: 80 seconds ---
+L3-V19 is now on P26
+L3-V19 shifting standardly for 1830 miliseconds
+L1-V31 is now on P17
+L1-V23 is now on P18
+L2-V29 shifting standardly for 1819 miliseconds
+--- Time: 81 seconds ---
+L1-V21 is now on P14
+L1-V13 shifting standardly for 2979 miliseconds
+L1-V21 shifting standardly for 1701 miliseconds
+L1-V2 is now on P16
+L1-V4 shifting standardly for 2068 miliseconds
+L1-V2 shifting standardly for 955 miliseconds
+L2-V28 is now on P19
+L1-V23 shifting standardly for 2819 miliseconds
+L2-V28 shifting standardly for 1985 miliseconds
+L3-V21 is now on P25
+L3-V21 shifting standardly for 2435 miliseconds
+L3-V25 shifting standardly for 2955 miliseconds
+L3-V13 is now on P34
+--- Time: 82 seconds ---
+L3-V19 is now on P27
+L3-V19 shifting standardly for 1985 miliseconds
+L1-V2 is now on P17
+L2-V29 is now on P18
+L2-V21 shifting standardly for 1819 miliseconds
+L1-V21 is now on P15
+--- Time: 83 seconds ---
+L3-V11 is now on P24
+L2-V19 shifting standardly for 1701 miliseconds
+L2-V28 is now on finish
+L2-V28 finished simulation!
+L1-V4 is now on P16
+L1-V4 shifting standardly for 955 miliseconds
+L1-V6 shifting standardly for 2068 miliseconds
+L3-V24 is now on P23
+--- Time: 84 seconds ---
+L2-V23 shifting standardly for 2979 miliseconds
+L3-V21 is now on P26
+L3-V21 shifting standardly for 1819 miliseconds
+L1-V13 is now on P14
+L1-V15 shifting standardly for 2979 miliseconds
+L1-V13 shifting standardly for 1701 miliseconds
+L3-V19 is now on P28
+L1-V23 is now on P19
+L1-V16 shifting standardly for 2819 miliseconds
+L1-V23 shifting standardly for 1830 miliseconds
+L1-V4 is now on P17
+L1-V4 shifting standardly for 2435 miliseconds
+L2-V21 is now on P18
+--- Time: 85 seconds ---
+L2-V19 is now on P24
+L3-V7 shifting standardly for 2068 miliseconds
+L1-V6 is now on P16
+L1-V6 shifting standardly for 955 miliseconds
+L1-V21 shifting standardly for 2068 miliseconds
+L3-V21 is now on P27
+L3-V21 shifting standardly for 1830 miliseconds
+L1-V13 is now on P15
+--- Time: 86 seconds ---
+L1-V23 is now on finish
+L1-V23 finished simulation!
+L1-V6 is now on P17
+L2-V23 is now on P23
+L2-V17 shifting standardly for 2979 miliseconds
+--- Time: 87 seconds ---
+L1-V4 is now on P18
+L1-V2 shifting standardly for 2435 miliseconds
+L3-V7 is now on P24
+L1-V15 is now on P14
+L2-V13 shifting standardly for 1701 miliseconds
+L1-V25 shifting standardly for 2979 miliseconds
+L1-V15 shifting standardly for 1701 miliseconds
+L3-V21 is now on P28
+L1-V21 is now on P16
+L1-V21 shifting standardly for 955 miliseconds
+L1-V13 shifting standardly for 2068 miliseconds
+--- Time: 88 seconds ---
+L3-V25 is now on P25
+L2-V15 shifting standardly for 3068 miliseconds
+L1-V21 is now on P17
+L1-V21 shifting into neighbor lane like fool for 5870 miliseconds
+L1-V15 is now on P15
+L2-V13 is now on P24
+L2-V23 shifting standardly for 1701 miliseconds
+--- Time: 89 seconds ---
+L1-V2 is now on P18
+L3-V27 shifting standardly for 1830 miliseconds
+L1-V13 is now on P16
+L1-V15 shifting standardly for 2068 miliseconds
+L1-V13 shifting standardly for 955 miliseconds
+L1-V16 is now on P19
+L2-V8 shifting standardly for 2830 miliseconds
+L1-V16 shifting standardly for 1985 miliseconds
+L2-V17 is now on P23
+L3-V3 shifting into neighbor lane like fool for 4402 miliseconds
+--- Time: 90 seconds ---
+L1-V25 is now on P14
+L1-V25 shifting standardly for 1701 miliseconds
+L1-V20 shifting standardly for 2979 miliseconds
+L2-V23 is now on P24
+L3-V24 shifting standardly for 2068 miliseconds
+L1-V13 is now on P17
+--- Time: 91 seconds ---
+L3-V27 is now on P18
+L1-V6 shifting standardly for 2435 miliseconds
+L1-V25 is now on P15
+L1-V15 is now on P16
+L1-V15 shifting standardly for 955 miliseconds
+L1-V25 shifting standardly for 2068 miliseconds
+L1-V16 is now on finish
+L1-V16 finished simulation!
+--- Time: 92 seconds ---
+L2-V15 is now on P25
+L2-V26 shifting standardly for 3068 miliseconds
+L2-V15 shifting standardly for 2435 miliseconds
+L3-V24 is now on P24
+L2-V17 shifting standardly for 1701 miliseconds
+L2-V8 is now on P19
+L2-V21 shifting standardly for 2830 miliseconds
+L2-V8 shifting standardly for 1985 miliseconds
+L1-V15 is now on P17
+--- Time: 93 seconds ---
+L1-V20 is now on P14
+L1-V28 shifting standardly for 2979 miliseconds
+L1-V20 shifting standardly for 1701 miliseconds
+L1-V6 is now on P18
+L1-V13 shifting standardly for 2435 miliseconds
+--- Time: 94 seconds ---
+L1-V25 is now on P16
+L1-V25 shifting standardly for 955 miliseconds
+L3-V25 shifting into neighbor lane like fool for 4638 miliseconds
+L3-V3 is now on P23
+L2-V17 is now on P24
+L3-V3 shifting standardly for 2068 miliseconds
+L3-V22 shifting into neighbor lane like fool for 4402 miliseconds
+L1-V21 is now on P28
+L2-V8 is now on finish
+L2-V8 finished simulation!
+L2-V15 is now on P26
+L1-V20 is now on P15
+L2-V15 shifting standardly for 1819 miliseconds
+L1-V25 is now on P17
+--- Time: 95 seconds ---
+L2-V26 is now on P25
+L3-V12 shifting standardly for 2955 miliseconds
+L2-V26 shifting standardly for 955 miliseconds
+L2-V21 is now on P19
+L1-V2 shifting standardly for 2819 miliseconds
+L2-V21 shifting standardly for 1985 miliseconds
+--- Time: 96 seconds ---
+L1-V28 is now on P14
+L1-V18 shifting standardly for 2979 miliseconds
+L1-V28 shifting standardly for 1701 miliseconds
+L1-V13 is now on P18
+L1-V15 shifting standardly for 2435 miliseconds
+L3-V3 is now on P24
+L2-V26 is now on P26
+L2-V15 is now on P27
+L2-V26 shifting standardly for 2435 miliseconds
+--- Time: 97 seconds ---
+L2-V21 is now on finish
+L2-V21 finished simulation!
+L1-V28 is now on P15
+L1-V28 shifting into neighbor lane like fool for 5135 miliseconds
+--- Time: 98 seconds ---
+L1-V2 is now on P19
+L1-V26 shifting standardly for 2819 miliseconds
+L1-V2 shifting standardly for 1830 miliseconds
+L3-V12 is now on P25
+L3-V3 shifting standardly for 1955 miliseconds
+L1-V15 is now on P18
+L2-V15 shifting into neighbor lane like fool for 4659 miliseconds
+L3-V25 is now on P16
+L3-V25 shifting standardly for 1830 miliseconds
+L1-V20 shifting standardly for 2068 miliseconds
+L3-V22 is now on P23
+L3-V22 shifting standardly for 2068 miliseconds
+L3-V1 shifting into neighbor lane like fool for 4402 miliseconds
+--- Time: 99 seconds ---
+L1-V18 is now on P14
+L1-V18 shifting standardly for 1701 miliseconds
+L2-V26 is now on P27
+L2-V26 shifting standardly for 1819 miliseconds
+L1-V30 shifting standardly for 2979 miliseconds
+--- Time: 100 seconds ---
+
+### SIMULATION SUMMARY ###
+Simulation duration: 100 seconds
+Zipping allowed: no
+Fool shift allowed: yes
+
+Lane 1: 25 vehicles
+Lane 2: 35 vehicles
+Lane 3: 10 vehicles
+Finished: 18 vehicles
+Collisions: 17
+Fool shifts: 35

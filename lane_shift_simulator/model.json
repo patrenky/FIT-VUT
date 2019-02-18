@@ -1,0 +1,185 @@
+{
+    "duration": 100,
+    "zipping": true,
+    "fool_shift": false,
+    "randoms": {
+        "num_init_vehicles": 30,
+	    "time_direct_ride": 2000,
+	    "time_direct_shift": 3000,
+	    "time_side_shift": 4000,
+	    "prob_collision": 50,
+	    "time_collision": 3000,
+	    "prob_fool": 10,
+	    "time_fool_shift": 5000
+    },
+    "services": [
+        "S11", "S12", "S13", "S14", "S15", "S16", "S17", "S18", "S19",
+        "S21", "S22", "S23", "S24", "S25", "S26", "S27", "S28",
+        "S31", "S32", "S33", "S34"
+    ],
+    "zip_tokens": ["T12", "T23"],
+    "places": {
+        "P11": {
+            "lane": 1,
+            "next_hop": "P12",
+            "services": [ "S11" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P22",
+            "fool_services": [ "S21" ]
+        },
+        "P12": {
+            "lane": 1,
+            "next_hop": "P13",
+            "services": [ "S12" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P23",
+            "fool_services": [ "S22" ]
+        },
+        "P13": {
+            "lane": 1,
+            "next_hop": "P14",
+            "services": [ "S13" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P24",
+            "fool_services": [ "S23" ]
+        },
+        "P14": {
+            "lane": 1,
+            "next_hop": "P15",
+            "services": [ "S14" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P25",
+            "fool_services": [ "S24" ]
+        },
+        "P15": {
+            "lane": 1,
+            "next_hop": "P16",
+            "services": [ "S15" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P26",
+            "fool_services": [ "S25" ]
+        },
+        "P16": {
+            "lane": 1,
+            "next_hop": "P17",
+            "services": [ "S16" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P27",
+            "fool_services": [ "S26" ]
+        },
+        "P17": {
+            "lane": 1,
+            "next_hop": "P18",
+            "services": [ "S17" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P28",
+            "fool_services": [ "S27" ]
+        },
+        "P18": {
+            "lane": 1,
+            "next_hop": "P19",
+            "services": [ "S18" ],
+            "zip_token": "T12",
+            "duration": "time_direct_shift"
+        },
+        "P19": {
+            "lane": 1,
+            "next_hop": "finish",
+            "services": [ "S19" ],
+            "duration": "time_direct_ride"
+        },
+        "P21": {
+            "lane": 2,
+            "next_hop": "P22",
+            "services": [ "S21" ],
+            "duration": "time_direct_ride",
+            "fool_hop": [ "P12" ],
+            "fool_services": [ "S11" ]
+        },
+        "P22": {
+            "lane": 2,
+            "next_hop": "P23",
+            "services": [ "S22" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P13",
+            "fool_services": [ "S12" ]
+        },
+        "P23": {
+            "lane": 2,
+            "next_hop": "P24",
+            "services": [ "S23" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P14",
+            "fool_services": [ "S13" ]
+        },
+        "P24": {
+            "lane": 2,
+            "next_hop": "P25",
+            "services": [ "S24" ],
+            "zip_token": "T23",
+            "duration": "time_direct_shift"
+        },
+        "P25": {
+            "lane": 2,
+            "next_hop": "P26",
+            "services": [ "S25" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P16",
+            "fool_services": [ "S15" ]
+        },
+        "P26": {
+            "lane": 2,
+            "next_hop": "P27",
+            "services": [ "S26" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P17",
+            "fool_services": [ "S16" ]
+        },
+        "P27": {
+            "lane": 2,
+            "next_hop": "P28",
+            "services": [ "S27" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P18",
+            "fool_services": [ "S17" ]
+        },
+        "P28": {
+            "lane": 2,
+            "next_hop": "P19",
+            "services": [ "S28" ],
+            "zip_token": "T12",
+            "duration": "time_side_shift"
+        },
+        "P31": {
+            "lane": 3,
+            "next_hop": "P32",
+            "services": [ "S31" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P22",
+            "fool_services": [ "S21" ]
+        },
+        "P32": {
+            "lane": 3,
+            "next_hop": "P33",
+            "services": [ "S32" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P23",
+            "fool_services": [ "S22" ]
+        },
+        "P33": {
+            "lane": 3,
+            "next_hop": "P34",
+            "services": [ "S33" ],
+            "duration": "time_direct_ride",
+            "fool_hop": "P24",
+            "fool_services": [ "S23" ]
+        },
+        "P34": {
+            "lane": 3,
+            "next_hop": "P25",
+            "services": [ "S34" ],
+            "zip_token": "T23",
+            "duration": "time_side_shift"
+        }
+    }
+}
