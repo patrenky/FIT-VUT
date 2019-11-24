@@ -1,0 +1,13 @@
+{
+    "topology": "std",
+    "nodes": "3",
+    "dataservices": [
+        {
+            "ds_name": "alpha",
+            "master": "db1",
+            "slaves": "db2",
+            "witness": "db3",
+            "connectors": "db1,db2,db3"
+        }
+    ]
+}
