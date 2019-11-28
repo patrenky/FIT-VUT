@@ -4,10 +4,14 @@ use strict;
 use warnings;
 use Data::Dumper;
 
+if (qx(pwd) !~ /cluster_simulator/) {
+	chdir "./cluster_simulator";
+}
+
 require './modules/file_actions.pl';
 
 # my ($file_dataset) = @ARGV;
-my $file_dataset = "./data/lin_long";
+my $file_dataset = "./data/lin";
 
 unless (-f $file_dataset) {
 	die("Dataset file $file_dataset does not exists");
