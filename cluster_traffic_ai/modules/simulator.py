@@ -1,8 +1,6 @@
 #!/usr/local/bin/python3.7
 
-# import sys
 import os
-# import re
 import subprocess
 import json
 
@@ -28,7 +26,7 @@ def updateTopology(updates):
     os.chdir(dir_simulator)
     code, out, err = execute("perl update_topology.pl " + updates)
     if out:
-        print(out)
+        print("update_topology.pl:\n" + out)
     os.chdir(dir_back)
 
 
@@ -45,7 +43,10 @@ def getTraffic():
     return ret
 
 
-def startTraffic():
-    code, out, err = execute("perl ./cluster_simulator/start_traffic.pl")
+def startTraffic(dataset):
+    code, out, err = execute(
+        "perl ./cluster_simulator/start_traffic.pl " + dataset)
     if out:
-        print(out)
+        print("start_traffic.pl:\n" + out)
+    if err:
+        print("start_traffic.pl ERROR:\n" + err)

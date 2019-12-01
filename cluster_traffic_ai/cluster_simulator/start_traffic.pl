@@ -10,8 +10,7 @@ if (qx(pwd) !~ /cluster_simulator/) {
 
 require './modules/file_actions.pl';
 
-# my ($file_dataset) = @ARGV;
-my $file_dataset = "./data/lin";
+my $file_dataset = "./data/" . $ARGV[0];
 
 unless (-f $file_dataset) {
 	die("Dataset file $file_dataset does not exists");
